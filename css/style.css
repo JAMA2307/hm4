@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: -100;
+  box-sizing: border-box;
+}
+
+
+body.type {
+  background-image: url(/img/elon.jpg);
+ z-index:200px;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+  height: 100vh;
+ 
+}
+
+.card {
+  padding: 30px;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  color: white;
+
+  background-color: #c4dfaa;
+  /* border: 1px solid black; */
+  border-radius: 12px;
+}
+
+.title {
+  font-size: 23px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.text {
+  margin-top: 15px;
+  text-align: center;
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+.button {
+  margin-top: 50px;
+  text-align: center;
+  padding: 10px;
+  width: 150px;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  background-color: rgba(0, 0, 0, 0.223);
+  border-radius: 45px;
+}
+body.types {
+ 
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  height: 100vh;
+}
+
+.card2 {
+  text-align: center;
+  padding: 30px;
+  width: 500px;
+  height: 500px;
+  
+  color:#87805E;
+
+  background-color:  #FFE7BF;
+  /* border: 1px solid black; */
+  border-radius: 12px;
+}
+
+.title2 {
+  font-size: 23px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.text2 {
+  margin-top: 15px;
+
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+.button2 {
+  margin-top: 85px;
+
+  padding: 10px;
+  width: 150px;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  background-color: rgba(0, 0, 0, 0.223);
+  border-radius: 45px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
